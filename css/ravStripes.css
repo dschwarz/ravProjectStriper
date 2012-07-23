@@ -1,0 +1,101 @@
+body{
+	font-family:Verdana;
+}
+
+.projectImgDiv{
+	display:none;
+}
+
+#selectionDialog{
+	display:none;
+}
+
+#imgSelectButtonDiv{
+	float:right;
+	font-size:12px;
+	text-align:center;
+	padding:10px;
+	cursor:pointer;
+	
+}
+
+#squareInst{
+	clear:both;
+}
+
+#dragClear{
+	width:20px;
+	height:20px;
+	background:rgba(0,0,0,0.5);
+}
+
+#projScroll{
+	height: 450px;
+	overflow-y: scroll;
+	margin-top: 10px;
+	border: 1px solid #666;
+	background-color: #eee;
+}
+
+
+#inDiv{
+	margin: 0;
+	padding: 0;
+}
+
+#stripes{
+	float:right;
+	width:600px;
+}
+
+#stripeOptions{
+	padding:10px;
+}
+
+#projImgs{
+	padding:10px;
+}
+
+#leftCol{
+	float:left;
+	width:150px;
+	
+}
+
+#rightCol{
+	float:left;
+	padding:10px;
+	margin-left:20px;
+	width: 700px;
+}
+
+#stripeSwatches{
+	padding:10px;
+	background-color:#eee;
+}
+
+#stripeDownload{
+	display:none;
+	width:75px;
+	font-size:10px;
+	text-align:center;
+	cursor:pointer;
+}
+
+#moreAbout{
+	text-decoration: underline;
+}
+
+#aboutDialog{
+	display:none;
+}
+
+.roundedCorners{
+	border: 1px solid #666;
+	border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+.smaller{
+	font-size: 12px;
+}

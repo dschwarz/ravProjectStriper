@@ -1,0 +1,9 @@
+Lately I've been spending a lot of time thinking about stripes.  I guess I'm dreaming of fall sweater knitting and all of the wonderful stripey possibilities.
+	
+The project striper lets you make stripes using your project photos.  So, if you have project yarn leftovers, you can see how they will stripe up.
+	
+You click on a photo thumbnail, which opens a dialog.  The dialog allows to select the 20px space on your photo you want to use as a swatch.  You then select a swatch and a number of rows to add a stripe.
+
+This represents one day of coding work.  In time, I would like to have this tool reference stash photos instead of project photos, and I would like to add the ability to delete and insert stripes.  I would also like to add download functionality so you can save and compare stripey variations.
+
+This project is written in PHP and uses jQuery and the canvas tag for image manipulation.
