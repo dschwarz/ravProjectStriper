@@ -37,7 +37,7 @@
 <?php
 require_once(dirname(__FILE__) . "/ravData.php");
 
-$projects = getProjectData('tumblingblocks','0aede207495654651aa9227ed010a038c585964e');
+$projects = getProjectData('username','apikey');
 
 print '<div id="projImgs" class="roundedCorners">Choose Image<br><div id="projScroll">';
 
